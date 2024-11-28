@@ -1,6 +1,7 @@
 
+
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFFF&center=true&width=600&lines=Soham+Nilesh +Vaidya+ML+Developer+and+Researcher;Crafting+the+future+with+Machine+Learning" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FFFF&center=true&width=500&lines=Soham+Nilesh+Vaidya+ML+Developer+and+Researcher;Crafting+the+future+with+Machine+Learning" alt="Typing SVG">
 </p>
 
 
