@@ -74,7 +74,9 @@
 ### 🌐 Connect With Me  
 
 <div align="left">
-  <a href="sohamvaidya333@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" /></a>
+
+  <a href="mailto:sohamvaidya333@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" /></a>
+
   <a href="https://www.linkedin.com/in/soham-vaidya-b31b21224/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" /></a>
   <a href="https://github.com/SohamVaidya12"><img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="GitHub logo" /></a>
   <a href="https://www.kaggle.com/sohamvaidya1627"><img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=20BEFF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Kaggle logo" /></a>
