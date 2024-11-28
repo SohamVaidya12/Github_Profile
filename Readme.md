@@ -1,10 +1,9 @@
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFFF&center=true&width=600&lines=AI+Developer+and+Researcher;Creating+Solutions+for+a+Smarter+Tomorrow" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFFF&center=true&width=600&lines=Soham+Nilesh +Vaidya+ML+Developer+and+Researcher;Crafting+the+future+with+Machine+Learning" alt="Typing SVG">
 </p>
-###
 
-<img align="right" height="150" src="https://www.example.com/ai_image.jpg" alt="AI and Data Science" />
+
 
 ###
 
