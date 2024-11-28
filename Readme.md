@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Soham Nilesh Vaidya and I'm a Graduate in Artificial Intelligence and Data Science, from Vidya Pratishthan's Kamalnayan Bajaj Institute of Engineering and Technology</h2>
+<h2 align="left">Hi 👋! My name is Soham Nilesh Vaidya and I'm a  </h2>
 
 ###
 
