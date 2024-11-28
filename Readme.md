@@ -39,6 +39,11 @@
   <img src="matplotlogo.png" height="45" alt="Matplotlib logo" />
   <img width="20" />
   <img src="Genai_logo.png" height="45" alt="Genai logo" />
+
+  <img width="20" />
+  <img src="Genai_logo.png" height="45" alt="Genai logo" />
+  <img width="20" />
+  <img src="Genai_logo.png" height="45" alt="Genai logo" />
 </div>
 
 ---
