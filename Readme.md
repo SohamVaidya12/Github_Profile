@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="coding gif" />
+<img align="right" height="150" src="https://www.example.com/ai_image.jpg" alt="AI and Data Science" />
 
 ###
 
