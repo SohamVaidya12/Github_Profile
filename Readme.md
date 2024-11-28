@@ -33,9 +33,9 @@
   <img width="20" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/512px-Scikit_learn_logo_small.svg.png" height="40" alt="scikit-learn logo" />
   <img width="20" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Matplotlib_icon.svg/512px-Matplotlib_icon.svg.png" height="40" alt="Matplotlib logo" />
+  <img src="matplotlogo.png" height="40" alt="Matplotlib logo" />
   <img width="20" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/GenAI_logo.png" height="40" alt="GenAI logo" />
+  <img src="GenAI_logo.png" height="40" alt="GenAI logo" />
 </div>
 
 ---
