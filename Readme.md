@@ -33,9 +33,9 @@
   <img width="20" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/512px-Scikit_learn_logo_small.svg.png" height="40" alt="scikit-learn logo" />
   <img width="20" />
-  <img src="matplotlogo.png" height="40" alt="Matplotlib logo" />
+  <img src="matplotlogo.png" height="45" alt="Matplotlib logo" />
   <img width="20" />
-  <img src="GenAI_logo.png" height="40" alt="GenAI logo" />
+  <img src="Genai_logo.png" height="45" alt="Genai logo" />
 </div>
 
 ---
